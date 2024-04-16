@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I am a graduate student at [Harvard](https://math.harvard.edu/), studying number theory.
+subtitle:
 
 profile:
   align: right
