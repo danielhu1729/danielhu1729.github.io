@@ -14,6 +14,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+he/him
 
 I'm a graduate student at [Harvard](https://www.math.harvard.edu/) studying number theory. Before, I was an undergraduate at [Princeton](http://math.princeton.edu), where I graduated in 2023.
 
