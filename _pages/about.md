@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm a graduate student at <a href="www.math.harvard.edu" target="_blank">Harvard</a>, studying number theory. Before, I was an undergraduate at <a href="www.math.princeton.edu" target="_blank">Princeton</a>, where I graduated in 2023.
+I'm a graduate student at <a href="www.math.harvard.edu" target="_blank">Harvard</a> studying number theory. Before, I was an undergraduate at <a href="www.math.princeton.edu" target="_blank">Princeton</a>, where I graduated in 2023.
 
 A brief CV can be found <a href="https://danielhu1729.github.io/CV.pdf" target="_blank">here</a>.
 
