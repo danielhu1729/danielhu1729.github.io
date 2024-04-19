@@ -21,4 +21,3 @@ I'm a graduate student at [Harvard](https://www.math.harvard.edu/) studying numb
 
 A brief CV (with contact and publications) can be found <a href="https://danielhu1729.github.io/CV.pdf" target="_blank">here</a>.
 
-
