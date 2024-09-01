@@ -7,7 +7,7 @@ subtitle:
 
 profile:
   align: right
-  image: photo.jpg
+  image: 3CAA8B73-B5F5-4692-8BA3-8C153EAEDFE1.jpg
   image_circular: false # crops the image to make it circular
   more_info:
 
